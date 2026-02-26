@@ -45,7 +45,7 @@ pip install -r requirements.txt
 jupyter notebook
 
 Open:
-notebook/Titanic_Data_Cleaning.ipynb
+notebook/Titanic_Dataset_Cleaning.ipynb
 ```
 
 ---
