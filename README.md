@@ -1,4 +1,4 @@
-# 🚢 Titanic Dataset Cleaning – Week 2 Assignment
+# 🚢 Titanic Dataset Cleaning –  Data Wrangling & Cleaning
 
 ## 📌 Project Overview
 This project focuses on data wrangling and cleaning of the Titanic dataset using Python.
